@@ -7,6 +7,8 @@ description: >-
 
 # Getting Started
 
+Trust Enterprises is sponsored and maintained by [DOVU](https://dovu.earth/en/) to help that any project benefits from faster launches and our support building on Hedera Hashgraph.
+
 ## The introductory video course 🤩
 
 Wanna grab a coffee and want to chill out for 30 minutes with me and step through the entire process of deploying a Trust Enterprises API client and interaction with a fresh Laravel app, [follow this link](https://docs.trust.enterprises/intro-video-course/introduction-of-the-trust-enterprises-project) 🚀
