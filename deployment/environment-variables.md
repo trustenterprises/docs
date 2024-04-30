@@ -51,6 +51,8 @@ These variables are completely optional and aren't required but they unlock addi
 
 If you want to use our NFT flow functionality for the complete management of NFT over an API for the creation, minting, metadata generation, and advanced transfer feature you need both the **NFT\_STORAGE\_TOKEN** and **MIRROR\_NODE\_URL** set.
 
+[Follow this walkthrough ](https://docs.filebase.com/api-documentation/ipfs-pinning-service-api)to get your **NFT\_STORAGE\_TOKEN** from Filebase.
+
 The **API\_URL** variable is exclusively used by Github Actions to automatically check the status of a deployment, this isn't required to be part of the vercel deployment.
 
 The **WEBHOOK\_URL** variable provides a method for all timestamped consensus responses to be sent to your server, allowing you to set up an asynchronous flow for broadcasting messages and not having to wait for consensus timestamps.&#x20;
